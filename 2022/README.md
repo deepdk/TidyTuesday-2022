@@ -84,4 +84,17 @@
 
 ---
 
+### [Week 19](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_19)
+
+![image](https://user-images.githubusercontent.com/31981663/169635548-3d69842e-c9b1-4d14-bac2-729ce82d1edb.png)
+
+---
+
+### [Week 20](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_20)
+
+![image](https://user-images.githubusercontent.com/31981663/169635581-30bdde8f-9826-471c-9c49-4b491ed51c93.png)
+
+---
+
+
 
