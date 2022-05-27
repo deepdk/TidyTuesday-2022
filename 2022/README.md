@@ -96,5 +96,11 @@
 
 ---
 
+### [Week_21](https://github.com/deepdk/TidyTuesday/blob/master/2022/week_21/script.R)
+
+![image](https://user-images.githubusercontent.com/31981663/170715786-cc1542db-0ecc-4e26-b980-1db1ba5e2a60.png)
+
+---
+
 
 
