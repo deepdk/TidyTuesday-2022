@@ -102,5 +102,10 @@
 
 ---
 
+## [Week 22](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_22)
+
+![image](https://user-images.githubusercontent.com/31981663/171331788-109d16a3-f463-486a-9ac9-b00073bd7a07.png)
+
+---
 
 
