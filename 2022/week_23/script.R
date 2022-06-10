@@ -53,18 +53,27 @@ my_theme <- function() {
 
 pride_aggregates <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-06-07/pride_aggregates.csv')
 
-pride_aggregates %>%
+df <- pride_aggregates %>%
 subset(company != "Grand Total")%>%
-ggplot(aes(reorder(company, total_contributed),total_contributed ,fill = company, label = company))+
-geom_bar(stat = 'identity', width = 1)+
-scale_y_continuous(limits = c(0,700000),
+mutate(company = fct_reorder(company, total_contributed))
+df
+
+p1 <- ggplot(df, aes(total_contributed, company,fill = company))+
+geom_col(width = 1.05)+
+scale_x_continuous(limits = c(0,700000),
                   labels = scales::dollar)+
-geom_label(aes(label = company), size = 7, fontface = 'bold',angle = 45, nudge_y = 0.5)+
+geom_label(aes(label = company,x=0),size = 5, fontface = 'bold', vjust = 0, hjust = 0)+
 scale_fill_paletteer_d("khroma::smooth_rainbow")+
-annotate("text", x = 2, y = 350000, label = "Pride Sponsers Who Have Donated To Anti-LGBTQ Campaigns ", size = 15, family = 'firasans', fontface = 'bold')+
-annotate("text", x = 10, y = 350000, label = "    \n    Each year, hundreds of corporations around the country participate in Pride,   \n  an annual celebration of the LGBTQ+ community’s history and progress.     \n    They present themselves as LGBTQ+ allies,          \n        but new research from Data for Progress finds        \n   that in between their yearly parade appearances,           \n         dozens of these corporations are giving to state politicians        \n      behind some of the most bigoted and harmful policies in over a decade.", size = 10, family = 'firasans', fontface = 'bold')+
+scale_color_paletteer_d("khroma::smooth_rainbow")+
+annotate("text", x = 350000, y = 2, label = "Pride Sponsers Who Have Donated To Anti-LGBTQ Campaigns ", size = 15, family = 'firasans', fontface = 'bold')+
+annotate("text", x = 350000, y = 10, label = "    \n    Each year, hundreds of corporations around the country participate in Pride,   \n  an annual celebration of the LGBTQ+ community’s history and progress.     \n    They present themselves as LGBTQ+ allies,          \n        but new research from Data for Progress finds        \n   that in between their yearly parade appearances,           \n         dozens of these corporations are giving to state politicians        \n      behind some of the most bigoted and harmful policies in over a decade.", size = 10, family = 'firasans', fontface = 'bold')+
 my_theme()+
 labs(title = "ACCOUNTABLE ALLIES: HOLDING CORPORATIONS ACCOUNTABLE AT PRIDE",
     caption = "Data Source : Pride Donations/TidyTuesday/Week 23-2022")+
-coord_polar(theta = 'y', direction = -1)    
+theme(legend.position = 'none')+
+theme(axis.text.y = element_blank())+
+theme(axis.title.x = element_blank())+
+theme(axis.title.y = element_blank())+
+coord_polar(clip = "off", direction = -1)
+p1
 
