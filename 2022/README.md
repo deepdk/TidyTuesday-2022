@@ -112,7 +112,13 @@
 
 ![image](https://user-images.githubusercontent.com/31981663/172991324-c638223d-9ce3-463a-ac9c-ce17d9fb7e7f.png)
 
+---
+
+## [Week 24](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_24)
+
+![image](https://user-images.githubusercontent.com/31981663/173987987-fad9898a-f240-4a16-9571-5f3e8a43a277.png)
 
 ---
+
 
 
