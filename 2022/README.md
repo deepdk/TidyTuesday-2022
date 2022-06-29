@@ -126,5 +126,10 @@
 
 ---
 
+## [Week 26](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_26)
+
+![image](https://user-images.githubusercontent.com/31981663/176349120-e8873b15-5cc7-4105-bc7d-19a7c449fa22.png)
+
+---
 
 
