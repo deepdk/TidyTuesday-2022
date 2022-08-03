@@ -132,4 +132,28 @@
 
 ---
 
+## [Week 27](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_27)
+
+![image](https://user-images.githubusercontent.com/31981663/182623480-abda2457-e8e1-474d-aeaf-c248a3bccec0.png)
+
+---
+
+## [Week 28](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_28)
+
+![image](https://user-images.githubusercontent.com/31981663/182623720-e5dfc3e3-59e0-4623-bae9-497ba4d71a76.png)
+
+---
+
+## [Week 30](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_30)
+
+![image](https://user-images.githubusercontent.com/31981663/182623939-335b9cdc-ad02-40f5-bf85-13c746f5eabb.png)
+
+---
+
+## [Week 31](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_31)
+
+![image](https://user-images.githubusercontent.com/31981663/182624181-c0cf9cef-d08d-4bb0-ae16-b7d3d17a2d49.png)
+
+---
+
 
