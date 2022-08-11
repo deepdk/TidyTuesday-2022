@@ -2,7 +2,7 @@
 
 ## [Week 32](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_32)
 
-![image](https://user-images.githubusercontent.com/31981663/183659967-2750c04c-79ac-4f61-a0ce-c49c5e86325c.png)
+![image](https://user-images.githubusercontent.com/31981663/184065154-c5a8774b-d3b1-4f42-8bde-45b6a8621700.png)
 
 ---
 
