@@ -1,5 +1,11 @@
 ## Tidy Tuesday plots for year 2022
 
+[Week 34](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_34)
+
+![image](https://user-images.githubusercontent.com/31981663/186324747-882c44bc-84a4-46c0-8d75-dadec26d2d6e.png)
+
+---
+
 ## [Week 33](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_33)
 
 ![image](https://user-images.githubusercontent.com/31981663/185141331-6eacbbb7-cb97-4814-b7d5-1ec0e6fc2c41.png)
