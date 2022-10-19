@@ -1,10 +1,19 @@
-# TidyTuesday
+# Tidy Tuesday plots for year 2022
 
 Weekly R Project.
 Datasets are from the [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md)
 
-## Tidy Tuesday plots for year 2022
+[Week 42](https://github.com/deepdk/TidyTuesday-2022/tree/master/2022/week_42)
 
+![image](https://user-images.githubusercontent.com/31981663/196595001-3dba62f4-505b-4d5e-b1b3-13cc30fcbace.png)
+
+---
+
+[Week 41](https://github.com/deepdk/TidyTuesday-2022/tree/master/2022/week_41)
+
+![image](https://user-images.githubusercontent.com/31981663/196594905-2fddab3f-e5a7-47eb-b7ee-e0d23d7625c2.png)
+
+---
 
 [Week 40](https://github.com/deepdk/TidyTuesday/tree/master/2022/week_40)
 
