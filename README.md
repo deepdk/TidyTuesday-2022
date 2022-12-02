@@ -3,6 +3,12 @@
 Weekly R Project.
 Datasets are from the [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/master/README.md)
 
+[Week 48](https://github.com/deepdk/TidyTuesday-2022/tree/master/2022/week_48)
+
+![image](https://user-images.githubusercontent.com/31981663/205210804-7375ffec-fa08-4110-bdc6-68db5c5059c8.png)
+
+---
+
 [Week 47](https://github.com/deepdk/TidyTuesday-2022/tree/master/2022/week_47)
 
 ![image](https://user-images.githubusercontent.com/31981663/203474034-95b5bae5-c034-4325-bec7-798181d5b6e6.png)
